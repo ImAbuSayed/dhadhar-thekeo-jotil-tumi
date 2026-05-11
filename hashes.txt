@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dhadhar Thekeo Jotil Tumi
+
+This log tracks the cryptographic history and versioning for the song **Dhadhar Thekeo Jotil Tumi** (dhadhar-thekeo-jotil-tumi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T09:08:02.938630 | `v1` | `5a3eddab1ddc5bb5bac5c1dfd2d608d700cc141947649146e4989a5432c53f07` | `d8ef0d51e6fb0d0f59a1738d29b0205ed1edfc68eca15e66e818e5aa5d1ab3b8` | `2026-05-11_dhadhar-thekeo-jotil-tumi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
