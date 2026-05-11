@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ধাঁধার থেকেও জটিল তুমি, বুঝবে কেমন করে
+> মন যে আমার অবুঝ পাখি, কাঁদে তোমার তরে
+> তোমার চোখের ঐ অতলে, লুকিয়ে আছে মায়া
+> খুঁজতে গিয়ে হারিয়েছি, নিজেরই আপন ছায়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
